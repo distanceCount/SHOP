@@ -3,7 +3,8 @@ package cn.shop.common.utils;
 import org.apache.commons.lang3.StringUtils;
 
 /**
- * @author 黑马程序员
+ * 常用正则校验
+ * @author
  */
 public class RegexUtils {
     /**

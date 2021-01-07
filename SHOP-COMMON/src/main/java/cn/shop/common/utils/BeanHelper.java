@@ -8,7 +8,8 @@ import java.util.Set;
 import java.util.stream.Collectors;
 
 /**
- * @author 黑马程序员
+ * 实现Bean属性的拷贝，把一个Bean的属性拷贝到另一个Bean，前提是其属性名一致或部分一致
+ * @author
  */
 @Slf4j
 public class BeanHelper {

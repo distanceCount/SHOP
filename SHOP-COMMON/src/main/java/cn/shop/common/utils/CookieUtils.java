@@ -11,6 +11,7 @@ import java.net.URLDecoder;
 import java.net.URLEncoder;
 
 /**
+ * 实现cookie的读和写
  * Cookie 工具类
  */
 @Slf4j

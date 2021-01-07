@@ -11,7 +11,8 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @author: 黑马程序员
+ * 实现实体类与Json的转换
+ * @author:
  **/
 public class JsonUtils {
 

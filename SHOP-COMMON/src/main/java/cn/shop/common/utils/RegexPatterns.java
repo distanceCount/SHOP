@@ -1,7 +1,8 @@
 package cn.shop.common.utils;
 
 /**
- * @author 黑马程序员
+ * 常用正则的字符串
+ * @author
  */
 public abstract class RegexPatterns {
     /**
