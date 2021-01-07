@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0466d304-1d0d-4455-95ea-d6d54253685d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\Develop\idea 2020.2\ideaIU_2020.2_Portable\plugins\maven\lib\maven3" />
+        <option name="userSettingsFile" value="D:\Develop\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1miguJ21NwJKLVLMxMJufkL7LJb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/SHOP-COMMON/src/main/java/cn/shop/common/utils" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JAVA\SHOP\SHOP-COMMON\src\main\java\cn\shop\common\utils" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0466d304-1d0d-4455-95ea-d6d54253685d" name="Default Changelist" comment="" />
+      <created>1609982048248</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609982048248</updated>
+      <workItem from="1609982049631" duration="5023000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="280" y="3" key="#Project_Structure" timestamp="1609983861720">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="280" y="3" key="#Project_Structure/0.0.1600.860@0.0.1600.860" timestamp="1609983861720" />
+    <state x="580" y="184" key="FileChooserDialogImpl" timestamp="1609985591604">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1609985591604" />
+    <state x="672" y="326" key="Github.ShareDialog" timestamp="1609985659776">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="672" y="326" key="Github.ShareDialog/0.0.1600.860@0.0.1600.860" timestamp="1609985659776" />
+    <state x="579" y="128" key="Github.UntrackedFilesDialog" timestamp="1609985693280">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="579" y="128" key="Github.UntrackedFilesDialog/0.0.1600.860@0.0.1600.860" timestamp="1609985693280" />
+    <state x="301" y="61" key="SettingsEditor" timestamp="1609986033852">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="301" y="61" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1609986033852" />
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1609986269267">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1609986269267" />
+    <state x="587" y="328" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1609986085459">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="587" y="328" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1600.860@0.0.1600.860" timestamp="1609986085459" />
+    <state x="170" y="89" key="new project wizard" timestamp="1609983832132">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="170" y="89" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1609983832132" />
+  </component>
+</project>
