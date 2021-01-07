@@ -10,6 +10,10 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>SHOP-COMMON</module>
+        <module>SHOP-GATEWAY</module>
+        <module>SHOP-POJO</module>
+        <module>SHOP-CLIENT</module>
+        <module>SHOP-ITEM</module>
     </modules>
 
     <parent>

@@ -1,0 +1,20 @@
+server:
+  port: 8081
+spring:
+  application:
+    name: shop-item
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql:///shop? serverTimezone=UTC&characterEncoding=utf8&useUnicode=true&useSSL=true
+    username: root
+    password: root
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848
+mybatis-plus:
+  # 指定entity扫描包类让mybatis自定扫描到自定义的entity。
+  type-aliases-package: cn.shop.item.pojo
+  configuration:
+    # 开启驼峰功能
+    map-underscore-to-camel-case: true
