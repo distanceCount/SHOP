@@ -1,0 +1,12 @@
+server:
+  port: 8082
+spring:
+  application:
+    name: shop-upload
+  servlet:
+    multipart:
+      max-file-size: 5MB # 限制文件上传大小
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848

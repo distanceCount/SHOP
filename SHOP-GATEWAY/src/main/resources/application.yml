@@ -36,6 +36,12 @@ spring:
             - Path=/api/item/**
           filters: # 表示过滤1个路径,2表示两个路径,一次类推
             - stripPrefix=2
+        - id: shop-upload  # 路由id,随意写
+            uri: lb://shop-upload #代理的服务地址: lb代表负载均衡(从nacos中获取具体服务)
+            predicates: # 路由断言,可以配置映射路径
+              - Path=/api/upload/**
+            filters: # 表示过滤1个路径,2表示两个路径,一次类推
+              - stripPrefix=2
 
 
 hystrix:

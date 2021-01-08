@@ -14,6 +14,7 @@
         <module>SHOP-POJO</module>
         <module>SHOP-CLIENT</module>
         <module>SHOP-ITEM</module>
+        <module>SHOP-UPLOAD</module>
     </modules>
 
     <parent>
