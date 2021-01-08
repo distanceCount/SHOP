@@ -18,3 +18,8 @@ mybatis-plus:
   configuration:
     # 开启驼峰功能
     map-underscore-to-camel-case: true
+  mapper-locations: mapper/*.xml
+
+# 开启日志
+logging:
+  level: debug
