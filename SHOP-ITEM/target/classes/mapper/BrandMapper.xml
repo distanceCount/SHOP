@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+       <!-- namespace名称空间，名称空间代表该xml文件映射是哪个接口-->
+<mapper namespace="cn.shop.item.mapper.BrandMapper">
+    <insert id="saveCategoryAndBrand">
+        insert into tb_category_brand(category_id,brand_id) VALUES
+        <foreach collection="cids" item="cid" separator=",">
+            (#{cid},#{id})
+        </foreach>
+    </insert>
+
+</mapper>

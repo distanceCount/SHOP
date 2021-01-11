@@ -4,14 +4,24 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0466d304-1d0d-4455-95ea-d6d54253685d" name="Default Changelist" comment="" />
+    <list default="true" id="0466d304-1d0d-4455-95ea-d6d54253685d" name="Default Changelist" comment="1. 上传模块" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="CompilerWorkspaceConfiguration">
     <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -35,38 +45,67 @@
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
   <component name="ProjectId" id="1miguJ21NwJKLVLMxMJufkL7LJb" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/SHOP-COMMON/src/main/java/cn/shop/common/utils" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../RAILWAY/pom.xml" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.47025266" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.shop.item.mapper" />
+      <recent name="cn.shop.common.exception.pojo" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\JAVA\SHOP\SHOP-COMMON\src\main\java\cn\shop\common\utils" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ShopGatewayApplication">
+    <configuration name="ShopGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SHOP-GATEWAY" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.shop.ShopGatewayApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ShopItemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SHOP-ITEM" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.shop.ShopItemApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.ShopGatewayApplication" />
+      <item itemvalue="Spring Boot.ShopItemApplication" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -76,22 +115,83 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609982048248</updated>
-      <workItem from="1609982049631" duration="5023000" />
+      <workItem from="1609982049631" duration="5570000" />
+      <workItem from="1609987760059" duration="142000" />
+      <workItem from="1609989324151" duration="5272000" />
+      <workItem from="1609998073737" duration="162000" />
+      <workItem from="1609998276277" duration="10582000" />
+      <workItem from="1610010103572" duration="1977000" />
+      <workItem from="1610013000988" duration="971000" />
+      <workItem from="1610067408305" duration="602000" />
+      <workItem from="1610069590310" duration="5071000" />
+      <workItem from="1610075715108" duration="14943000" />
+      <workItem from="1610247021738" duration="45000" />
     </task>
+    <task id="LOCAL-00001" summary="工具类备注">
+      <created>1609987876132</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609987876132</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1. 搭建各模块&#10;2. 设置全局异常类">
+      <created>1610009178748</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610009178748</updated>
+    </task>
+    <task id="LOCAL-00003" summary="分类操作">
+      <created>1610013969364</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1610013969364</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1. 新增品牌&#10;2. 品牌分页查询">
+      <created>1610087639185</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1610087639185</updated>
+    </task>
+    <task id="LOCAL-00005" summary="1. 上传模块">
+      <created>1610098507920</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1610098507920</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="工具类备注" />
+    <MESSAGE value="1. 搭建各模块&#10;2. 设置全局异常类" />
+    <MESSAGE value="分类操作" />
+    <MESSAGE value="1. 新增品牌&#10;2. 品牌分页查询" />
+    <MESSAGE value="1. 上传模块" />
+    <option name="LAST_COMMIT_MESSAGE" value="1. 上传模块" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="280" y="3" key="#Project_Structure" timestamp="1609983861720">
+    <state x="280" y="3" key="#Project_Structure" timestamp="1609998322637">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="280" y="3" key="#Project_Structure/0.0.1600.860@0.0.1600.860" timestamp="1609983861720" />
-    <state x="580" y="184" key="FileChooserDialogImpl" timestamp="1609985591604">
+    <state x="280" y="3" key="#Project_Structure/0.0.1600.860@0.0.1600.860" timestamp="1609998322637" />
+    <state x="398" y="0" key="CommitChangelistDialog2" timestamp="1610098524083">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1609985591604" />
+    <state x="398" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1610098524083" />
+    <state x="580" y="184" key="FileChooserDialogImpl" timestamp="1610247053588">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1610247053588" />
     <state x="672" y="326" key="Github.ShareDialog" timestamp="1609985659776">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -100,21 +200,77 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="579" y="128" key="Github.UntrackedFilesDialog/0.0.1600.860@0.0.1600.860" timestamp="1609985693280" />
-    <state x="301" y="61" key="SettingsEditor" timestamp="1609986033852">
+    <state width="1068" height="434" key="GridCell.Tab.0.bottom" timestamp="1610075687602">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="301" y="61" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1609986033852" />
+    <state width="1068" height="434" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1610075687602" />
+    <state width="1068" height="434" key="GridCell.Tab.0.center" timestamp="1610075687602">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1068" height="434" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1610075687602" />
+    <state width="1068" height="434" key="GridCell.Tab.0.left" timestamp="1610075687602">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1068" height="434" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1610075687602" />
+    <state width="1068" height="434" key="GridCell.Tab.0.right" timestamp="1610075687602">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1068" height="434" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1610075687602" />
+    <state width="1068" height="434" key="GridCell.Tab.1.bottom" timestamp="1610075687603">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1068" height="434" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1610075687603" />
+    <state width="1068" height="434" key="GridCell.Tab.1.center" timestamp="1610075687602">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1068" height="434" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1610075687602" />
+    <state width="1068" height="434" key="GridCell.Tab.1.left" timestamp="1610075687602">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1068" height="434" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1610075687602" />
+    <state width="1068" height="434" key="GridCell.Tab.1.right" timestamp="1610075687602">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1068" height="434" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1610075687602" />
+    <state width="1068" height="434" key="GridCell.Tab.2.bottom" timestamp="1610075687603">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1068" height="434" key="GridCell.Tab.2.bottom/0.0.1600.860@0.0.1600.860" timestamp="1610075687603" />
+    <state width="1068" height="434" key="GridCell.Tab.2.center" timestamp="1610075687603">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1068" height="434" key="GridCell.Tab.2.center/0.0.1600.860@0.0.1600.860" timestamp="1610075687603" />
+    <state width="1068" height="434" key="GridCell.Tab.2.left" timestamp="1610075687603">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1068" height="434" key="GridCell.Tab.2.left/0.0.1600.860@0.0.1600.860" timestamp="1610075687603" />
+    <state width="1068" height="434" key="GridCell.Tab.2.right" timestamp="1610075687603">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1068" height="434" key="GridCell.Tab.2.right/0.0.1600.860@0.0.1600.860" timestamp="1610075687603" />
+    <state x="61" y="2" key="SettingsEditor" timestamp="1610075191727">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="61" y="2" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1610075191727" />
     <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1609986269267">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1609986269267" />
+    <state x="501" y="162" width="598" height="536" key="find.popup" timestamp="1610092240605">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="501" y="162" width="598" height="536" key="find.popup/0.0.1600.860@0.0.1600.860" timestamp="1610092240605" />
     <state x="587" y="328" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1609986085459">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="587" y="328" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1600.860@0.0.1600.860" timestamp="1609986085459" />
-    <state x="170" y="89" key="new project wizard" timestamp="1609983832132">
+    <state x="170" y="89" key="new project wizard" timestamp="1610088490385">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="170" y="89" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1609983832132" />
+    <state x="170" y="89" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1610088490385" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1610092260514">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1610092260514" />
   </component>
 </project>

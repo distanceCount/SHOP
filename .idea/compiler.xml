@@ -2,18 +2,31 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="SHOP-POJO-ITEM" />
+        <module name="SHOP-UPLOAD" />
+        <module name="SHOP-CLIENT-ITEM" />
+        <module name="SHOP-ITEM" />
         <module name="SHOP-COMMON" />
+        <module name="SHOP-GATEWAY" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="SHOP" options="-parameters" />
+      <module name="SHOP-CLIENT" options="-parameters" />
+      <module name="SHOP-CLIENT-ITEM" options="-parameters" />
       <module name="SHOP-COMMON" options="-parameters" />
+      <module name="SHOP-GATEWAY" options="-parameters" />
+      <module name="SHOP-ITEM" options="-parameters" />
+      <module name="SHOP-POJO" options="-parameters" />
+      <module name="SHOP-POJO-ITEM" options="-parameters" />
+      <module name="SHOP-UPLOAD" options="-parameters" />
     </option>
   </component>
 </project>
